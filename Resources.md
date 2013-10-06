@@ -110,7 +110,7 @@ http://www.securitytube.net/video/6230
 
 __________________________________________________________
 # Communications
-Learning Crypto
+Learning Crypto  
 [Public Key Encryption](http://csunplugged.org/public-key-encryption)  
 [Khan Academy Crypto](https://www.khanacademy.org/math/applied-math/cryptography)  
 
@@ -125,9 +125,9 @@ S/MIME
 https://en.wikipedia.org/wiki/S/MIME  
 http://www.digitalllama.net/2013/03/create-your-own-smime-email.html  
 
-[BleachBit](http://bleachbit.sourceforge.net/features) (scrub history from browser, etc)
+[BleachBit](http://bleachbit.sourceforge.net/features) (scrub history from browser, etc) - NSA was using persistent cookies to track Tor users across internet
 
-Irony
+Irony  
 [Using Tor and email encryption increases chances NSA keeps your data](http://arstechnica.com/tech-policy/2013/06/use-of-tor-and-e-mail-crypto-could-increase-chances-that-nsa-keeps-your-data/)
 
 
@@ -154,14 +154,13 @@ https://www.i2p2.de/download.html
 VPN
 [VPN Services reviews](http://torrentfreak.com/vpn-services-that-take-your-anonymity-seriously-2013-edition-130302/)
 
-OTR Chat
-https://en.wikipedia.org/wiki/Off-the-Record_Messaging
-https://securityinabox.org/en/pidgin_securechat
-http://otr.cypherpunks.ca/
-https://www.riseup.net/en/otr
+OTR Chat  
+https://en.wikipedia.org/wiki/Off-the-Record_Messaging  
+https://securityinabox.org/en/pidgin_securechat  
+http://otr.cypherpunks.ca/  
+https://www.riseup.net/en/otr  
 
 [Jitsi Voice](https://jitsi.org/)
-
 
 [Tails Linux](https://tails.boum.org/)
 
