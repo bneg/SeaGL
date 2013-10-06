@@ -3,7 +3,8 @@ Curated list of resources for the Protecting Privacy, Security, and Anonymity wi
 Not exhaustive, just a really good head start.
 
 
-#### Resources:
+# Resources:
+__________________________________________________________
 Other sites with loads of info:
 The paranoid #! Security Guide, tons of great info here
 http://crunchbang.org/forums/viewtopic.php?id=24722
@@ -24,9 +25,9 @@ https://docs.google.com/file/d/0B2HGtAJEbG8PdzVPdHcwekI2V2M
 From DerbyCon 2013
 http://www.scriptjunkie.us/2013/09/the-infosec-revival-derbycon-2013/
 
+# Who is this for
 __________________________________________________________
-## Who is this for
-# Threat Modeling
+## Threat Modeling
 http://courses.jmsc.hku.hk/jmsc6041spring2013/2013/02/08/assignment-6-threat-modeling-and-security-planning/
 
 # Journalists
