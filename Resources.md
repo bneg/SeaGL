@@ -27,22 +27,25 @@ http://www.scriptjunkie.us/2013/09/the-infosec-revival-derbycon-2013/
 
 # Who is this for
 __________________________________________________________
-## Threat Modeling
+#### Threat Modeling
 http://courses.jmsc.hku.hk/jmsc6041spring2013/2013/02/08/assignment-6-threat-modeling-and-security-planning/
 
-# Journalists
+#### Journalists
 James Rosen:
 http://www.wired.com/threatlevel/2013/05/feds-tracked-fox-news-reporter/
+
 Laura Poitras:
 http://www.salon.com/2012/04/08/u_s_filmmaker_repeatedly_detained_at_border/
 http://www.democracynow.org/2013/6/17/long_before_helping_expose_nsa_spying
 http://en.wikipedia.org/wiki/2013_Department_of_Justice_investigations_of_reporters
 
-# Activists:
-Moxie Marlinspike detained
+##### Activists:
+Moxie Marlinspike detained:
+
 http://news.cnet.com/8301-27080_3-20023341-245.html
 
-BC Winter Olympics
+BC Winter Olympics:
+
 http://ca.news.yahoo.com/blogs/dailybrew/surveillance-vancouver-anti-olympic-activist-justified-rcmp-192204175.html
 
 Arizona et al. Fusion Center surveilled citizens involved in Occupy movement
