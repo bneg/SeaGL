@@ -111,22 +111,21 @@ http://www.securitytube.net/video/6230
 __________________________________________________________
 # Communications
 Learning Crypto
-[Public Key Encryption](http://csunplugged.org/public-key-encryption)
-[Khan Academy Crypto](https://www.khanacademy.org/math/applied-math/cryptography)
+[Public Key Encryption](http://csunplugged.org/public-key-encryption)  
+[Khan Academy Crypto](https://www.khanacademy.org/math/applied-math/cryptography)  
 
-PSA: [Cell Phones are tracking devices](http://www.nytimes.com/2013/10/03/us/nsa-experiment-traced-us-cellphone-locations.html?_r=0)
+PSA: [Cell Phones are tracking devices](http://www.nytimes.com/2013/10/03/us/nsa-experiment-traced-us-cellphone-locations.html?_r=0)  
 
 [Encryption Works](https://pressfreedomfoundation.org/encryption-works), Press Freedom Foundation
 
 
 [GPG Tutorial](http://futureboy.us/pgp.html)
 
-S/MIME
-https://en.wikipedia.org/wiki/S/MIME
-http://www.digitalllama.net/2013/03/create-your-own-smime-email.html
+S/MIME  
+https://en.wikipedia.org/wiki/S/MIME  
+http://www.digitalllama.net/2013/03/create-your-own-smime-email.html  
 
-BleachBit (scrub history from browser, etc)
-http://bleachbit.sourceforge.net/features
+[BleachBit](http://bleachbit.sourceforge.net/features) (scrub history from browser, etc)
 
 Irony
 [Using Tor and email encryption increases chances NSA keeps your data](http://arstechnica.com/tech-policy/2013/06/use-of-tor-and-e-mail-crypto-could-increase-chances-that-nsa-keeps-your-data/)
