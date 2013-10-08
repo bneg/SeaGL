@@ -4,19 +4,15 @@ Not exhaustive, just a really good head start.
 
 # Resources:
 __________________________________________________________
-Other sites with loads of info:  
-[The paranoid #! Security Guide](http://crunchbang.org/forums/viewtopic.php?id=24722), tons of great info here
-
-[Prism Break](http://prism-break.org/) - Alternative tools to closed, untrustworthy products
-
-[EFF Surveillance Self Defense Project](https://ssd.eff.org/)
-
-[Committee to Protect Journalists](https://www.cpj.org/reports/2012/04/information-security.php)
-
+The Definitive Source: [CryptoParty Handbook](https://www.cryptoparty.in/documentation/handbook)  
+[Encryption Works](https://pressfreedomfoundation.org/sites/default/files/encryption_works.pdf)  
+[The paranoid #! Security Guide](http://crunchbang.org/forums/viewtopic.php?id=24722), tons of great info here  
+[Prism Break](http://prism-break.org/) - Alternative tools to closed, untrustworthy products  
+[EFF Surveillance Self Defense Project](https://ssd.eff.org/)  
+[Committee to Protect Journalists](https://www.cpj.org/reports/2012/04/information-security.php)  
 Jennifer Valentino-DeVries - [For Journalists](https://docs.google.com/file/d/0B2HGtAJEbG8PdzVPdHcwekI2V2M)  
-[*notes from above](https://gist.github.com/vaguity/6594731)
-
-From DerbyCon 2013 - [The InfoSec Revival](http://www.scriptjunkie.us/2013/09/the-infosec-revival-derbycon-2013/)
+[*notes from above](https://gist.github.com/vaguity/6594731)  
+From DerbyCon 2013 - [The InfoSec Revival](http://www.scriptjunkie.us/2013/09/the-infosec-revival-derbycon-2013/)  
 
 # Who is this for
 __________________________________________________________
@@ -25,7 +21,7 @@ __________________________________________________________
 
 #### Journalists
 James Rosen, [Feds tracked Fox News Reporter](http://www.wired.com/threatlevel/2013/05/feds-tracked-fox-news-reporter/)
-
+- [Source: Stephen Jin-Woo-Kim](http://en.wikipedia.org/wiki/Stephen_Jin-Woo_Kim)  
 Laura Poitras:
 [Filmmaker repeatedly detained at border](http://www.salon.com/2012/04/08/u_s_filmmaker_repeatedly_detained_at_border/)  
 http://www.democracynow.org/2013/6/17/long_before_helping_expose_nsa_spying 
@@ -33,8 +29,13 @@ http://www.democracynow.org/2013/6/17/long_before_helping_expose_nsa_spying
 [DOJ Investigations of Reporters](http://en.wikipedia.org/wiki/2013_Department_of_Justice_investigations_of_reporters)
 
 #### Activists:
-[Moxie Marlinspike detained](http://news.cnet.com/8301-27080_3-20023341-245.html)
+[Moxie Marlinspike detained](http://news.cnet.com/8301-27080_3-20023341-245.html)  
+[Jacob Applebaum detained](http://boingboing.net/2011/01/12/wikileaks-volunteer-1.html)  
 
+[Spy Suit Against Army Workers is Cleared](http://www.nytimes.com/2012/12/19/us/court-clears-way-for-spy-lawsuit-against-army-workers.html?_r=1&)  
+[New evidence that the Army paid civilians to spy on anti-war protesters](http://slog.thestranger.com/slog/archives/2013/08/20/new-evidence-that-the-us-army-paid-civilians-to-spy-on-washington-state-anti-war-protesters)  
+[Civil Complaint](http://www.scribd.com/doc/149721217/4th-AMENDED-Civil-Complaint-Panagacos-v-John-J-Towery-Thomas-R-Rudd-Olympia-Police-Department-Tacoma-Police-Department-Chris-Adamson)
+[Military Spied on Planned Parenthood](http://www.wired.com/threatlevel/2010/02/military-spied-on-plannet-parenthood/)
 BC Winter Olympics, [Anti-Olympic Activists Surveilled](http://ca.news.yahoo.com/blogs/dailybrew/surveillance-vancouver-anti-olympic-activist-justified-rcmp-192204175.html)
 
 Arizona et al. Fusion Center surveilled citizens involved in [Occupy movement](http://www.sourcewatch.org/index.php/Government_Surveillance_of_Occupy_Movement)
