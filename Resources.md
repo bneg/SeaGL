@@ -39,27 +39,29 @@ BC Winter Olympics, [Anti-Olympic Activists Surveilled](http://ca.news.yahoo.com
 
 Arizona et al. Fusion Center surveilled citizens involved in [Occupy movement](http://www.sourcewatch.org/index.php/Government_Surveillance_of_Occupy_Movement)
 
-# Dissidents:
+#### Dissidents:
 [FinFisher used to track activists](http://www.bloomberg.com/news/2012-07-25/cyber-attacks-on-activists-traced-to-finfisher-spyware-of-gamma.html)  
 [Cyber Attacks Against Uyghur Mac OS X Users Intensify](http://www.securelist.com/en/blog/208194116/Cyber_Attacks_Against_Uyghur_Mac_OS_X_Users_Intensify)  
 [Syrian Dissidents Targeted by Malware Attacks](http://www.zdnet.com/syrian-dissidents-targeted-by-malware-attacks-7000002723/)  
 
 
-# Everybody Else:
+#### Everybody Else:
 [Lenders turning to social media to assess borrowers](http://www.economist.com/news/finance-and-economics/21571468-lenders-are-turning-social-media-assess-borrowers-stat-oil)
 
 [NSA tracking social networks of US Citizens](http://nytimes.com/2013/09/29/us/nsa-examines-social-networks-of-us-citizens.html)
 
 [Killing hackers is justified says NATO-commission](http://www.theverge.com/2013/3/21/4130740/tallin-manual-on-the-international-law-applicable-to-cyber-warfare)
 
-http://pandodaily.com/2013/05/20/you-are-your-data-the-scary-future-of-the-quantified-self-movement/
+http://pandodaily.com/2013/05/20/you-are-your-data-the-scary-future-of-the-quantified-self-movement/  
 
-Whistleblowers
-http://www.guardian.co.uk/commentisfree/2013/jun/16/whistleblowers-new-generation-american-patriots?CMP=twt_fd
+[Great argument against "nothing to hide"](https://pay.reddit.com/r/privacy/comments/1ikekb/if_you_have_nothing_to_hide_you_have_nothing_to/cb5ee5b)
 
-http://kieranhealy.org/blog/archives/2013/06/09/using-metadata-to-find-paul-revere/
+#### Whistleblowers
+http://www.guardian.co.uk/commentisfree/2013/jun/16/whistleblowers-new-generation-american-patriots?CMP=twt_fd  
 
-https://www.nydailynews.com/opinion/worry-nsa-article-1.1369705
+http://kieranhealy.org/blog/archives/2013/06/09/using-metadata-to-find-paul-revere/  
+
+https://www.nydailynews.com/opinion/worry-nsa-article-1.1369705  
 
 __________________________________________________________
 # OS Installs
@@ -98,6 +100,12 @@ Securing Ubuntu Server
 
 [Encrypted Containers with Tomb](http://tomb.dyne.org/)
 
+[Bastille Linux](http://www.bastille-linux.org/) - Application that locks down a variety of UNIX distributions
+
+[grsec/PaX](http://en.wikibooks.org/wiki/Grsecurity/Overview) - Hardened Linux kernel to prevent 0-days
+
+[TIGER Security Audit and HIDS](http://www.nongnu.org/tiger/)
+- Network IDS, File integrity checking, log watching
 Strong passwords, use password keeper
 KeePass, KeePassX
 
@@ -108,6 +116,9 @@ http://www.slideshare.net/endrazine/defcon-hardware-backdooring-is-practical
 http://www.toucan-system.com/research/blackhat2012_brossard_hardware_backdooring.pdf
 http://www.securitytube.net/video/6230
 
+[Want to evade the NSA? Don't connect to the internet](http://www.wired.com/opinion/2013/10/149481/)
+
+
 __________________________________________________________
 # Communications
 Learning Crypto  
@@ -115,6 +126,7 @@ Learning Crypto
 [Khan Academy Crypto](https://www.khanacademy.org/math/applied-math/cryptography)  
 
 PSA: [Cell Phones are tracking devices](http://www.nytimes.com/2013/10/03/us/nsa-experiment-traced-us-cellphone-locations.html?_r=0)  
+[Phone Advertisers Tracking Cell Phones](http://mobile.nytimes.com/2013/10/06/technology/selling-secrets-of-phone-users-to-advertisers.html)
 
 [Encryption Works](https://pressfreedomfoundation.org/encryption-works), Press Freedom Foundation
 
@@ -128,37 +140,34 @@ http://www.digitalllama.net/2013/03/create-your-own-smime-email.html
 [BleachBit](http://bleachbit.sourceforge.net/features) (scrub history from browser, etc) - NSA was using persistent cookies to track Tor users across internet
 
 Irony  
-[Using Tor and email encryption increases chances NSA keeps your data](http://arstechnica.com/tech-policy/2013/06/use-of-tor-and-e-mail-crypto-could-increase-chances-that-nsa-keeps-your-data/)
+[Using Tor and email encryption increases chances NSA keeps your data](http://arstechnica.com/tech-policy/2013/06/use-of-tor-and-e-mail-crypto-could-increase-chances-that-nsa-keeps-your-data/)  
 
+[Tor Project](https://www.torproject.org/)  
+[Attacking Tor](http://www.theguardian.com/world/2013/oct/04/tor-attacks-nsa-users-online-anonymity)  
 
-[Tor Project](https://www.torproject.org/)
-
-[Attacks on Tor by NSA & GCHQ](http://www.theguardian.com/world/2013/oct/04/nsa-gchq-attack-tor-network-encryption)
+[Attacks on Tor by NSA & GCHQ](http://www.theguardian.com/world/2013/oct/04/nsa-gchq-attack-tor-network-encryption)  
 Grugq/Portal, Personal Onion Router)  
-https://github.com/grugq/portal  
-http://grugq.github.io/blog/2013/10/05/thru-a-portal-darkly/  
+[PORTAL](https://github.com/grugq/portal)  
+[Thru A PORTAL Darkly](http://grugq.github.io/blog/2013/10/05/thru-a-portal-darkly/)  
 
-[PORTAL based on RaspPi](https://github.com/grugq/PORTALofPi)
+[PORTAL based on RaspPi](https://github.com/grugq/PORTALofPi)  
 
+Tor is an Anonymity tool, VPN's are privacy tools  
 [Tor vs. VPN](http://privacy-pc.com/articles/hackers-guide-to-stay-out-of-jail-7-vpns-vs-tor.html)  
 
 [ONION PI](http://learn.adafruit.com/onion-pi/overview) - Hardware Tor Router with rPi  
 ^^ Not quite as good as Grugq PORTAL as it appears to only route web traffic
 
-[Whonix](http://sourceforge.net/projects/whonix/), VM router/desktop combo
+[Whonix](http://sourceforge.net/projects/whonix/), VM router/desktop combo  
 
-I2P
-https://en.wikipedia.org/wiki/I2P
-https://www.i2p2.de/download.html
-
-VPN
+VPN  
 [VPN Services reviews](http://torrentfreak.com/vpn-services-that-take-your-anonymity-seriously-2013-edition-130302/)
 
 OTR Chat  
-https://en.wikipedia.org/wiki/Off-the-Record_Messaging  
-https://securityinabox.org/en/pidgin_securechat  
-http://otr.cypherpunks.ca/  
-https://www.riseup.net/en/otr  
+[OTR Wiki](https://en.wikipedia.org/wiki/Off-the-Record_Messaging)  
+[Pidgin Secure Chat](https://securityinabox.org/en/pidgin_securechat)  
+[OTR CypherPunks](http://otr.cypherpunks.ca/)  
+[OTR RiseUp](https://www.riseup.net/en/otr)  
 
 [Jitsi Voice](https://jitsi.org/)
 
@@ -167,7 +176,7 @@ https://www.riseup.net/en/otr
 [Liberte Linux](http://dee.su/liberte)
 __________________________________________________________
 # OPSEC
-\* All the crypto in the world won't save you from yourself in the event of stupid decision \*
+\* All the crypto in the world won't save you from yourself in the event of stupid decision *\
 
 Security Culture  
 http://security.resist.ca/personal/culture.shtml  
