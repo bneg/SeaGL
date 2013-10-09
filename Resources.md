@@ -28,16 +28,17 @@ http://www.democracynow.org/2013/6/17/long_before_helping_expose_nsa_spying
 
 [DOJ Investigations of Reporters](http://en.wikipedia.org/wiki/2013_Department_of_Justice_investigations_of_reporters)
 
-#### Activists:
+#### Activists:  
+[ACLU Spy Files](https://www.aclu.org/spy-files)  
 [Moxie Marlinspike detained](http://news.cnet.com/8301-27080_3-20023341-245.html)  
 [Jacob Applebaum detained](http://boingboing.net/2011/01/12/wikileaks-volunteer-1.html)  
 
 [Spy Suit Against Army Workers is Cleared](http://www.nytimes.com/2012/12/19/us/court-clears-way-for-spy-lawsuit-against-army-workers.html?_r=1&)  
 [New evidence that the Army paid civilians to spy on anti-war protesters](http://slog.thestranger.com/slog/archives/2013/08/20/new-evidence-that-the-us-army-paid-civilians-to-spy-on-washington-state-anti-war-protesters)  
-[Civil Complaint](http://www.scribd.com/doc/149721217/4th-AMENDED-Civil-Complaint-Panagacos-v-John-J-Towery-Thomas-R-Rudd-Olympia-Police-Department-Tacoma-Police-Department-Chris-Adamson)
-[Military Spied on Planned Parenthood](http://www.wired.com/threatlevel/2010/02/military-spied-on-plannet-parenthood/)
-BC Winter Olympics, [Anti-Olympic Activists Surveilled](http://ca.news.yahoo.com/blogs/dailybrew/surveillance-vancouver-anti-olympic-activist-justified-rcmp-192204175.html)
-
+- [On way to demonstration, protester arrested on false charges](http://aclu-wa.org/blog/chinn-case-just-tip-surveillance-iceberg)  
+[Civil Complaint](http://www.scribd.com/doc/149721217/4th-AMENDED-Civil-Complaint-Panagacos-v-John-J-Towery-Thomas-R-Rudd-Olympia-Police-Department-Tacoma-Police-Department-Chris-Adamson)  
+[Military Spied on Planned Parenthood](http://www.wired.com/threatlevel/2010/02/military-spied-on-plannet-parenthood/)  
+BC Winter Olympics, [Anti-Olympic Activists Surveilled](http://ca.news.yahoo.com/blogs/dailybrew/surveillance-vancouver-anti-olympic-activist-justified-rcmp-192204175.html)  
 Arizona et al. Fusion Center surveilled citizens involved in [Occupy movement](http://www.sourcewatch.org/index.php/Government_Surveillance_of_Occupy_Movement)
 
 #### Dissidents:
@@ -54,7 +55,6 @@ Arizona et al. Fusion Center surveilled citizens involved in [Occupy movement](h
 [Killing hackers is justified says NATO-commission](http://www.theverge.com/2013/3/21/4130740/tallin-manual-on-the-international-law-applicable-to-cyber-warfare)
 
 http://pandodaily.com/2013/05/20/you-are-your-data-the-scary-future-of-the-quantified-self-movement/  
-
 [Great argument against "nothing to hide"](https://pay.reddit.com/r/privacy/comments/1ikekb/if_you_have_nothing_to_hide_you_have_nothing_to/cb5ee5b)
 
 #### Whistleblowers
