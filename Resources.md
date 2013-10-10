@@ -57,6 +57,8 @@ Arizona et al. Fusion Center surveilled citizens involved in [Occupy movement](h
 
 __________________________________________________________
 # OS Installs  
+[Check the Hashes](https://help.ubuntu.com/community/HowToMD5SUM)
+[Full disk crypto for Ubuntu, with hardening](http://www.rationallyparanoid.com/articles/ubuntu-12-lts-security.html)  
 [Full disk crypto in OpenBSD](http://ryanak.ca/planet-ubuntu/2013/03/26/Setting-up-full-disk-encryption-in-OpenBSD-5.3.html)  
 [Booting Linux with self-signed UEFI](http://kroah.com/log/blog/2013/09/02/booting-a-self-signed-linux-kernel/)  
 [Using TPM with Linux (if you trust it)](https://www.grounation.org/index.php?post/2008/07/04/8-how-to-use-a-tpm-with-linux)  
@@ -74,13 +76,14 @@ __________________________________________________________
 Securing Ubuntu Server  
 [http://www.andrewault.net/2010/05/17/securing-an-ubuntu-server/](http://www.andrewault.net/2010/05/17/securing-an-ubuntu-server/)  
 [http://joshrendek.com/2013/01/securing-ubuntu/](http://joshrendek.com/2013/01/securing-ubuntu/)  
-[https://help.ubuntu.com/10.04/serverguide/automatic-updates.html](https://help.ubuntu.com/10.04/serverguide/automatic-updates.html)  
+[Configure automatic updates for Ubuntu](https://help.ubuntu.com/10.04/serverguide/automatic-updates.html)  
 [sudo vulnerability, priv escalation](http://www.h-online.com/security/news/item/Security-vulnerability-in-sudo-allows-privilege-escalation-1816387.html)  
 [Using SELinux](http://www.reddit.com/r/debian/comments/1csny8/how_to_use_selinux/)  
 [Using SELinux to Sandbox Applications (RH based distros)](scientificlinuxforum.org/index.php?showtopic=1441)  
 [Using AppArmor to sandbox Firefox](http://rookcifer.blogspot.com/2012/09/custom-firefox-apparmor-profile-for.html)  
 [Block outbound network traffic](http://rene.bz/securing-your-web-server-blocking-outbound-connections/)  
 [Encrypted Containers with Tomb](http://tomb.dyne.org/)  
+[CryptSetup FAQ](http://code.google.com/p/cryptsetup/wiki/FrequentlyAskedQuestions)  
 
 [Bastille Linux](http://www.bastille-linux.org/) - Application that locks down a variety of UNIX distributions  
 [grsec/PaX](http://en.wikibooks.org/wiki/Grsecurity/Overview) - Hardened Linux kernel to prevent 0-days  
@@ -122,6 +125,7 @@ Irony
 [Tor Project](https://www.torproject.org/)  
 [Attacking Tor](http://www.theguardian.com/world/2013/oct/04/tor-attacks-nsa-users-online-anonymity)  
 [Forensic Analysis of Tor Browser bundle on Linux/OS X/Windows](https://research.torproject.org/techreports/tbb-forensic-analysis-2013-06-28.pdf)   
+[Tor Birdy, Tor for Thunderbird](https://trac.torproject.org/projects/tor/wiki/torbirdy)  
 [Attacks on Tor by NSA & GCHQ](http://www.theguardian.com/world/2013/oct/04/nsa-gchq-attack-tor-network-encryption)  
 
 #### Grugq/Portal, Personal Onion Router)  
