@@ -57,7 +57,7 @@ Arizona et al. Fusion Center surveilled citizens involved in [Occupy movement](h
 
 __________________________________________________________
 # OS Installs  
-[Check the Hashes](https://help.ubuntu.com/community/HowToMD5SUM)
+[Check the Hashes](https://help.ubuntu.com/community/HowToMD5SUM)  
 [Full disk crypto for Ubuntu, with hardening](http://www.rationallyparanoid.com/articles/ubuntu-12-lts-security.html)  
 [Full disk crypto in OpenBSD](http://ryanak.ca/planet-ubuntu/2013/03/26/Setting-up-full-disk-encryption-in-OpenBSD-5.3.html)  
 [Booting Linux with self-signed UEFI](http://kroah.com/log/blog/2013/09/02/booting-a-self-signed-linux-kernel/)  
@@ -73,11 +73,12 @@ __________________________________________________________
 # OS/APP hardening
 [Securing Debian](http://www.debian.org/doc/manuals/securing-debian-howto/)  
 
-Securing Ubuntu Server  
+#### Securing Ubuntu Server:  
 [http://www.andrewault.net/2010/05/17/securing-an-ubuntu-server/](http://www.andrewault.net/2010/05/17/securing-an-ubuntu-server/)  
 [http://joshrendek.com/2013/01/securing-ubuntu/](http://joshrendek.com/2013/01/securing-ubuntu/)  
 [Configure automatic updates for Ubuntu](https://help.ubuntu.com/10.04/serverguide/automatic-updates.html)  
 [sudo vulnerability, priv escalation](http://www.h-online.com/security/news/item/Security-vulnerability-in-sudo-allows-privilege-escalation-1816387.html)  
+
 [Using SELinux](http://www.reddit.com/r/debian/comments/1csny8/how_to_use_selinux/)  
 [Using SELinux to Sandbox Applications (RH based distros)](scientificlinuxforum.org/index.php?showtopic=1441)  
 [Using AppArmor to sandbox Firefox](http://rookcifer.blogspot.com/2012/09/custom-firefox-apparmor-profile-for.html)  
@@ -87,10 +88,9 @@ Securing Ubuntu Server
 
 [Bastille Linux](http://www.bastille-linux.org/) - Application that locks down a variety of UNIX distributions  
 [grsec/PaX](http://en.wikibooks.org/wiki/Grsecurity/Overview) - Hardened Linux kernel to prevent 0-days  
-[TIGER Security Audit and HIDS](http://www.nongnu.org/tiger/)  
-Network IDS, File integrity checking, log watching  
+[TIGER Security Audit and HIDS](http://www.nongnu.org/tiger/) - Network IDS, File integrity checking, log watching  
 Strong passwords, use password keeper  
-KeePass, KeePassX  
+[KeePassX](http://www.keepassx.org/), [KeePass](http://keepass.info/)  
 
 *FOR THE REALLY PARANOID*  
 (Or why you should buy a burner laptop with cash and NEVER connect it to the internet)  
@@ -169,6 +169,6 @@ __________________________________________________________
 [Mastering Secret Work](http://www.sacp.org.za/docs/history/secretwork.html)  
 
 #### Bad OPSEC -> Go directly to jail  
-[Feds waited CmdrX of Anon to boot laptop](http://arstechnica.com/tech-policy/2012/12/anon-on-the-run-how-commander-x-jumped-bai/)  
+[Feds waited for CmdrX of Anon to boot laptop](http://arstechnica.com/tech-policy/2012/12/anon-on-the-run-how-commander-x-jumped-bai/)  
 [Feds waited for Dread Pirate Roberts of SilkRoad to boot laptop](https://twitter.com/xor/status/385465047226413057)  
 [Feds shut down Silk Road](http://arstechnica.com/tech-policy/2013/10/feds-shut-down-silk-road-arrest-alleged-admin-dread-pirate-roberts/)
