@@ -99,7 +99,7 @@ http://www.securitytube.net/video/6230
 [Want to evade the NSA? Don't connect to the internet](http://www.wired.com/opinion/2013/10/149481/)  
 __________________________________________________________
 # Communications
-Learning Crypto  
+#### Learning Crypto  
 [Public Key Encryption](http://csunplugged.org/public-key-encryption)  
 [Khan Academy: Cryptography](https://www.khanacademy.org/math/applied-math/cryptography)  
 
@@ -109,14 +109,14 @@ Learning Crypto
 
 [GPG Tutorial](http://futureboy.us/pgp.html)  
 
-#### S/MIME  
+S/MIME  
 https://en.wikipedia.org/wiki/S/MIME  
 [Create your own S/MIME](http://www.digitalllama.net/2013/03/create-your-own-smime-email.html)  
 
 [BleachBit](http://bleachbit.sourceforge.net/features)  
 (scrub history from browser, etc) - NSA was using persistent cookies to track Tor users across internet  
 
-#### Irony  
+Irony  
 [Using Tor and email encryption increases chances NSA keeps your data](http://arstechnica.com/tech-policy/2013/06/use-of-tor-and-e-mail-crypto-could-increase-chances-that-nsa-keeps-your-data/)  
 
 [Tor Project](https://www.torproject.org/)  
