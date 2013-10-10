@@ -146,6 +146,8 @@ Irony
 [Tor Project](https://www.torproject.org/)  
 [Attacking Tor](http://www.theguardian.com/world/2013/oct/04/tor-attacks-nsa-users-online-anonymity)  
 
+[Forensic Analysis of Tor Browser bundle on Linux/OS X/Windows](https://research.torproject.org/techreports/tbb-forensic-analysis-2013-06-28.pdf)  
+
 [Attacks on Tor by NSA & GCHQ](http://www.theguardian.com/world/2013/oct/04/nsa-gchq-attack-tor-network-encryption)  
 Grugq/Portal, Personal Onion Router)  
 [PORTAL](https://github.com/grugq/portal)  
