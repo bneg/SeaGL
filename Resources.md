@@ -4,11 +4,13 @@ Not exhaustive, just a really good head start.
 # Resources:
 __________________________________________________________
 The Definitive Source: [CryptoParty Handbook](https://www.cryptoparty.in/documentation/handbook)  
+[Security in a box: Tools and tactics for your digital security](https://securityinabox.org/en) < Another Great resource site  
 [Encryption Works](https://pressfreedomfoundation.org/sites/default/files/encryption_works.pdf)  
 [The paranoid #! Security Guide](http://crunchbang.org/forums/viewtopic.php?id=24722) <- tons of great info here  
 [Prism Break](http://prism-break.org/) - Alternative tools to closed, untrustworthy products  
 [EFF Surveillance Self Defense Project](https://ssd.eff.org/)  
 [Committee to Protect Journalists](https://www.cpj.org/reports/2012/04/information-security.php)  
+[Tactical Technology Collective - Why this is important](https://www.tacticaltech.org/projects)  
 Jennifer Valentino-DeVries - [For Journalists](https://docs.google.com/file/d/0B2HGtAJEbG8PdzVPdHcwekI2V2M)  
 [*notes from above](https://gist.github.com/vaguity/6594731)  
 From DerbyCon 2013 - [The InfoSec Revival](http://www.scriptjunkie.us/2013/09/the-infosec-revival-derbycon-2013/)  
@@ -110,7 +112,10 @@ __________________________________________________________
 [Phone Advertisers Tracking Cell Phones](http://mobile.nytimes.com/2013/10/06/technology/selling-secrets-of-phone-users-to-advertisers.html)  
 [Encryption Works](https://pressfreedomfoundation.org/encryption-works), Press Freedom Foundation  
 
+
+[Digital Security and Privacy for Human Rights Defenders](https://www.frontlinedefenders.org/esecman)  
 [GPG Tutorial](http://futureboy.us/pgp.html)  
+[How to keep your Internet communications private](https://securityinabox.org/en/chapter-7)  
 
 S/MIME  
 https://en.wikipedia.org/wiki/S/MIME  
