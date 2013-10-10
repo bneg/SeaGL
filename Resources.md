@@ -85,7 +85,7 @@ Securing Ubuntu Server
 [Bastille Linux](http://www.bastille-linux.org/) - Application that locks down a variety of UNIX distributions  
 [grsec/PaX](http://en.wikibooks.org/wiki/Grsecurity/Overview) - Hardened Linux kernel to prevent 0-days  
 [TIGER Security Audit and HIDS](http://www.nongnu.org/tiger/)  
-- Network IDS, File integrity checking, log watching  
+Network IDS, File integrity checking, log watching  
 Strong passwords, use password keeper  
 KeePass, KeePassX  
 
@@ -103,20 +103,20 @@ Learning Crypto
 [Public Key Encryption](http://csunplugged.org/public-key-encryption)  
 [Khan Academy: Cryptography](https://www.khanacademy.org/math/applied-math/cryptography)  
 
-PSA: [Cell Phones are tracking devices](http://www.nytimes.com/2013/10/03/us/nsa-experiment-traced-us-cellphone-locations.html?_r=0)  
+#### PSA: [Cell Phones are tracking devices](http://www.nytimes.com/2013/10/03/us/nsa-experiment-traced-us-cellphone-locations.html?_r=0)  
 [Phone Advertisers Tracking Cell Phones](http://mobile.nytimes.com/2013/10/06/technology/selling-secrets-of-phone-users-to-advertisers.html)  
 [Encryption Works](https://pressfreedomfoundation.org/encryption-works), Press Freedom Foundation  
 
 [GPG Tutorial](http://futureboy.us/pgp.html)  
 
-S/MIME  
+#### S/MIME  
 https://en.wikipedia.org/wiki/S/MIME  
 [Create your own S/MIME](http://www.digitalllama.net/2013/03/create-your-own-smime-email.html)  
 
 [BleachBit](http://bleachbit.sourceforge.net/features)  
 (scrub history from browser, etc) - NSA was using persistent cookies to track Tor users across internet  
 
-Irony  
+#### Irony  
 [Using Tor and email encryption increases chances NSA keeps your data](http://arstechnica.com/tech-policy/2013/06/use-of-tor-and-e-mail-crypto-could-increase-chances-that-nsa-keeps-your-data/)  
 
 [Tor Project](https://www.torproject.org/)  
@@ -124,12 +124,12 @@ Irony
 [Forensic Analysis of Tor Browser bundle on Linux/OS X/Windows](https://research.torproject.org/techreports/tbb-forensic-analysis-2013-06-28.pdf)   
 [Attacks on Tor by NSA & GCHQ](http://www.theguardian.com/world/2013/oct/04/nsa-gchq-attack-tor-network-encryption)  
 
-Grugq/Portal, Personal Onion Router)  
+#### Grugq/Portal, Personal Onion Router)  
 [PORTAL](https://github.com/grugq/portal)  
 [Thru A PORTAL Darkly](http://grugq.github.io/blog/2013/10/05/thru-a-portal-darkly/)  
 [PORTAL based on RaspPi](https://github.com/grugq/PORTALofPi)  
 
-Tor is an Anonymity tool, VPN's are privacy tools  
+#### Tor is an Anonymity tool, VPN's are privacy tools  
 [Tor vs. VPN](http://privacy-pc.com/articles/hackers-guide-to-stay-out-of-jail-7-vpns-vs-tor.html)  
 
 [ONION PI](http://learn.adafruit.com/onion-pi/overview) - Hardware Tor Router with rPi  
@@ -137,10 +137,10 @@ Tor is an Anonymity tool, VPN's are privacy tools
 
 [Whonix](http://sourceforge.net/projects/whonix/), VM router/desktop combo  
 
-VPN  
+#### VPN  
 [VPN Services reviews](http://torrentfreak.com/vpn-services-that-take-your-anonymity-seriously-2013-edition-130302/)
 
-OTR Chat  
+#### OTR Chat  
 [OTR Wiki](https://en.wikipedia.org/wiki/Off-the-Record_Messaging)  
 [Pidgin Secure Chat](https://securityinabox.org/en/pidgin_securechat)  
 [OTR CypherPunks](http://otr.cypherpunks.ca/)  
@@ -153,22 +153,18 @@ __________________________________________________________
 # OPSEC
 \\* All the crypto in the world won't save you from yourself in the event of stupid decision *\
 
-Security Culture  
+#### Security Culture  
 [Security Culture for Activists](http://security.resist.ca/personal/culture.shtml)  
 [What is Security Culture](http://www.crimethinc.com/texts/atoz/security.php)  
 
-Hacker OPSEC  
+#### Hacker OPSEC  
 [The Grugq](http://grugq.github.io/)  
 [OPSEC when you want real anonymity](http://12160.info/video/the-grugq-opsec-when-you-want-real-anonymity)  
 
 [Ignorance is strength](http://grugq.github.io/blog/2013/06/13/ignorance-is-strength/)  
 [Mastering Secret Work](http://www.sacp.org.za/docs/history/secretwork.html)  
 
-Bad OPSEC -> Go directly to jail  
+#### Bad OPSEC -> Go directly to jail  
 [Feds waited CmdrX of Anon to boot laptop](http://arstechnica.com/tech-policy/2012/12/anon-on-the-run-how-commander-x-jumped-bai/)  
 [Feds waited for Dread Pirate Roberts of SilkRoad to boot laptop](https://twitter.com/xor/status/385465047226413057)  
 [Feds shut down Silk Road](http://arstechnica.com/tech-policy/2013/10/feds-shut-down-silk-road-arrest-alleged-admin-dread-pirate-roberts/)
-
-
-
-
