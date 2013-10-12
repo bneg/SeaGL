@@ -1,6 +1,8 @@
 Curated list of resources for the "Protecting Privacy, Security, and Anonymity with Linux and Open Source Tools" presentation.
 Not exhaustive, just a really good head start.
 
+SeaGL Presentation, [download](https://db.tt/VTRezAPp) LibreOffice .odt format  
+
 # Resources:
 __________________________________________________________
 The Definitive Source: [CryptoParty Handbook](https://www.cryptoparty.in/documentation/handbook)  
