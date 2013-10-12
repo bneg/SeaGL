@@ -1,7 +1,7 @@
 Curated list of resources for the "Protecting Privacy, Security, and Anonymity with Linux and Open Source Tools" presentation.
 Not exhaustive, just a really good head start.
 
-SeaGL Presentation, [download](https://db.tt/VTRezAPp) LibreOffice .odt format 
+SeaGL Presentation, [download](https://db.tt/VTRezAPp) LibreOffice .odt format  
 ...or [download](https://db.tt/2cxaG8QK) .pdf format  
 
 # Resources:
