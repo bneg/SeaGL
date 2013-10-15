@@ -67,6 +67,7 @@ __________________________________________________________
 [Full disk crypto in OpenBSD](http://ryanak.ca/planet-ubuntu/2013/03/26/Setting-up-full-disk-encryption-in-OpenBSD-5.3.html)  
 [Booting Linux with self-signed UEFI](http://kroah.com/log/blog/2013/09/02/booting-a-self-signed-linux-kernel/)  
 [Using TPM with Linux (if you trust it)](https://www.grounation.org/index.php?post/2008/07/04/8-how-to-use-a-tpm-with-linux)  
+[Initializing and using TPM in Linux](http://resources.infosecinstitute.com/linux-tpm-encryption-initializing-and-using-the-tpm/)  
 [Pwning Past Whole Disk Encryption](https://twopointfouristan.wordpress.com/2011/04/17/pwning-past-whole-disk-encryption/) ("Evil Maid Attack" in practice)  
 
 #### QubesOS  
