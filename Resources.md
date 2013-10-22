@@ -1,7 +1,7 @@
 Curated list of resources for the "Protecting Privacy, Security, and Anonymity with Linux and Open Source Tools" presentation.
 Not exhaustive, just a really good head start.
 
-SeaGL Presentation, [download](https://db.tt/VTRezAPp) LibreOffice .odt format  
+Presentation, [download](https://db.tt/VTRezAPp) LibreOffice .odt format  
 ...or [download](https://db.tt/2cxaG8QK) .pdf format  
 
 # Resources:
@@ -16,6 +16,7 @@ The Definitive Source: [CryptoParty Handbook](https://www.cryptoparty.in/documen
 [Tactical Technology Collective - Why this is important](https://www.tacticaltech.org/projects)  
 Jennifer Valentino-DeVries - [For Journalists](https://docs.google.com/file/d/0B2HGtAJEbG8PdzVPdHcwekI2V2M)  
 [*notes from above](https://gist.github.com/vaguity/6594731)  
+[Planning Digital Security for your Story](http://www.scribd.com/doc/177375761/Threat-Modeling-Planning-Digital-Security-for-Your-Story)
 From DerbyCon 2013 - [The InfoSec Revival](http://www.scriptjunkie.us/2013/09/the-infosec-revival-derbycon-2013/)  
 
 # Who is this for
